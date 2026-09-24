@@ -1,4 +1,4 @@
-# Detetives Digitais: Proteja Seu Mundo Online
+# Investigação Digital: Proteja Seu Mundo Online
 
 ## Equipe
 
