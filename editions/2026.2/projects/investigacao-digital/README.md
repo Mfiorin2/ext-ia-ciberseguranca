@@ -53,15 +53,15 @@ A atividade será realizada em espaços escolares, principalmente em salas de au
 
 ### Recursos Necessários
 
-Para a realização da atividade, serão necessários: uma sala equipada com caixas de som e projetor (para a apresentação e exibição do vídeo), materiais impressos para a atividade dos "casos", e materiais escolares básicos, como lápis coloridos, para o preenchimento e personalização das fichas pelas crianças.
+Para a realização da atividade, será necessário uma sala equipada com projetor (para a apresentação de slides).
 
 ### Desenvolvimento Prévio
 
-Será necessário produzir previamente o material impresso da atividade, contendo os "casos" investigativos em formato lúdico (ilustrações de mensagens suspeitas, perfis falsos e situações de risco) para que as crianças possam pintar, desenhar e rabiscar como parte do processo de identificação e resolução dos casos, reforçando o aprendizado dos conceitos de forma prática e descontraída. Também será necessário produzir o roteiro da apresentação e selecionar ou produzir o vídeo curto a ser exibido durante a atividade.
+Será necessário produzir previamente o material da apresentação, contendo os "casos" investigativos em formato lúdico (ilustrações de mensagens suspeitas, perfis falsos e situações de risco) para que as crianças possam participar ativamente como parte do processo de identificação e resolução dos casos, reforçando o aprendizado dos conceitos de forma prática e descontraída. Também será necessário produzir o roteiro da apresentação e explicar para a turma como jogar o jogo de tabuleiro.
 
 ### Desafios
 
-Um dos principais desafios será simplificar a linguagem da apresentação de forma que as crianças saiam da atividade com os conceitos de segurança digital claros e bem fixados, evitando explicações que possam confundir ou ser rapidamente esquecidas. Outro desafio é o controle do ambiente durante a atividade, já que crianças de 8 a 11 anos tendem a se dispersar ou se agitar com facilidade, principalmente durante a etapa prática (pintar/desenhar), exigindo uma condução dinâmica e atenta por parte do grupo para manter o engajamento sem perder o foco da sala.
+Um dos principais desafios será simplificar a linguagem da apresentação de forma que as crianças saiam da atividade com os conceitos de segurança digital claros e bem fixados, evitando explicações que possam confundir ou ser rapidamente esquecidas. Outro desafio é o controle do ambiente durante a atividade, já que crianças de 8 a 11 anos tendem a se dispersar ou se agitar com facilidade, principalmente durante a etapa prática (jogo de tabuleiro), exigindo uma condução dinâmica e atenta por parte do grupo para manter o engajamento sem perder o foco da sala.
 
 ## Resultados Esperados
 
