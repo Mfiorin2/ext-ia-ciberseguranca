@@ -61,8 +61,7 @@ A primeira aplicação ocorreu em uma sala da FEEC/Unicamp, em um sábado pela m
 
 ### Desenvolvimento Prévio
 
-Foi produzida a apresentação com os cenários investigativos. Para a segunda aplicação, será necessário finalizar o tabuleiro e as cartas, revisar o roteiro com tempos fixos por etapa e explicar previamente a equipe como o jogo funciona, para que as regras sejam apresentadas às crianças em poucos minutos.
-
+Foi produzida a apresentação com os cenários investigativos. Para a segunda aplicação, será necessário finalizar o tabuleiro e as cartas e revisar o roteiro com tempos fixos para cada etapa.
 ### Desafios
 
 Os desafios previstos se confirmaram na primeira aplicação:
@@ -114,7 +113,7 @@ Como evidência de que os objetivos foram alcançados, espera-se que as criança
 - **Observações da equipe:** as seis crianças participaram dos cenários, comentaram as situações e discutiram atitudes seguras e arriscadas. As respostas aos cenários foram fáceis e óbvias para o grupo, e a alternativa correta era sempre a letra C. Interpretamos isso como sinal de que os cenários foram pouco desafiadores, ou de que as crianças já conheciam boa parte dos cuidados básicos, mas não temos como distinguir as duas hipóteses. Algumas crianças também brincaram durante a atividade, zombando da apresentação e dizendo que entregariam dados a estranhos.
 - **Materiais utilizados:** [pasta no Google Drive com os materiais da atividade](https://drive.google.com/drive/folders/1LTMOOlkVEBh4yyII52QicdqMJSu2o7AQ?usp=sharing).
 - **Feedback de familiar:** uma mãe elogiou a iniciativa e o envolvimento do filho. É um relato isolado e informal.
-- **Limitações:** não aplicamos um instrumento estruturado (como perguntas finais ou quiz), então não temos medida de quantas crianças identificaram corretamente os riscos nem de quanto do conteúdo foi retido. Como a resposta correta era sempre a mesma alternativa, os acertos também não comprovam que as crianças analisaram cada caso. As falas de zombaria foram entendidas pela equipe como brincadeira, e não como desconhecimento dos riscos, mas essa interpretação não foi verificada. Com seis participantes e observação informal, as conclusões sobre aprendizado são apenas indicativas. Nenhum dado pessoal, resposta identificável ou imagem foi registrado neste documento.
+- **Limitações:** não aplicamos um instrumento estruturado (como perguntas finais ou quiz), então não temos medida de quantas crianças identificaram corretamente os riscos nem de quanto do conteúdo foi retido. A impressão da equipe é de que, em geral, as crianças responderam corretamente aos cenários e acompanharam as discussões, nas quais reafirmávamos o comportamento seguro e explicávamos o porquê, mas essa percepção vem apenas da observação e não foi registrada de forma sistemática. A principal limitação foi a falta de seriedade de algumas crianças, que brincaram e zombaram durante a atividade, o que dificulta saber quanto do grupo levou os casos a sério. A equipe entendeu essas falas como brincadeira, e não como desconhecimento dos riscos, mas essa interpretação não foi verificada. Como a alternativa correta era, na maioria das vezes, a letra C, os acertos também podem ter sido favorecidos por esse padrão. Com seis participantes e observação informal, as conclusões sobre aprendizado são apenas indicativas. Nenhum dado pessoal, resposta identificável ou imagem foi registrado neste documento.
 
 ## Plano de Aprimoramento para a Segunda Aplicação
 
