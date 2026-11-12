@@ -58,7 +58,6 @@ A primeira aplicação ocorreu em uma sala da FEEC/Unicamp, em um sábado pela m
 
 - Sala com computador e projetor para a apresentação de slides. Na primeira aplicação, a equipe precisou levar um notebook, algo que não havia sido previsto. Para a segunda aplicação, o notebook passa a constar na lista de materiais da equipe, e a disponibilidade de equipamentos será confirmada com o local.
 - Material impresso do jogo de tabuleiro (tabuleiro, cartas de situação e peões), a ser produzido antes da segunda aplicação.
-- Cartões de resposta ("seguro" e "risco") para o quiz final e um cronômetro para controlar o tempo de cada etapa.
 
 ### Desenvolvimento Prévio
 
