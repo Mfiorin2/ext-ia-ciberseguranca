@@ -130,8 +130,8 @@ Como evidência de que os objetivos foram alcançados, espera-se que as criança
 ### Preparação da Segunda Aplicação
 
 - **Situação da segunda aplicação:** data e local ainda a definir. A prioridade é a Escola Akatu, em Barão Geraldo, mas ainda não houve resposta da escola. Se não for possível, a aplicação será no sábado, 21 de novembro de 2026, no IMECC/Unicamp, com divulgação às famílias.
-- **Pendências prioritárias:** obter a resposta da escola e, se for negativa, iniciar imediatamente a divulgação para o IMECC; confirmar data, duração disponível, número de participantes e equipamentos (projetor, e levar o notebook); produzir e imprimir o tabuleiro e as cartas; ajustar os slides para simplificar e resumir o conteúdo, cortando a parte conceitual; reescrever os cenários com dificuldade variada; definir o roteiro com tempos e os papéis de cada integrante; elaborar o quiz final.
-- **Como verificaremos as melhorias:** comparando a duração real de cada etapa com o roteiro (e se o tabuleiro foi realizado); observando se a participação ficou organizada sem perda de engajamento; contando as respostas corretas do quiz final de forma agregada; e registrando o número de inscritos e presentes em relação à primeira aplicação.
+- **Pendências prioritárias:** obter a resposta da escola e, se for negativa, iniciar imediatamente a divulgação para o IMECC; confirmar data, duração disponível, número de participantes e equipamentos (projetor, e levar o notebook); ajustar os slides para simplificar e resumir o conteúdo; reescrever as respostas dos cenários; redefinir o roteiro com tempos e os papéis de cada integrante.
+- **Como verificaremos as melhorias:** comparando a duração real de cada etapa com o roteiro (e se o tabuleiro foi realizado); observando se a participação ficou organizada sem perda de engajamento; e registrando o número de inscritos e presentes em relação à primeira aplicação.
 
 ## Referências
 
