@@ -126,7 +126,6 @@ Como evidência de que os objetivos foram alcançados, espera-se que as criança
 | Dificuldade para localizar a sala, demora para reunir as crianças e necessidade de levar um notebook, o que não estava previsto. | Reconhecer o local antes do dia, saber onde será a atividade e quais equipamentos existem, levar notebook e cabos próprios testados previamente e ter um integrante recebendo as crianças. | Início pontual e menos tempo perdido com logística. |
 | Cenários fáceis e com a resposta correta sempre na letra C. | Alternar a posição da resposta correta e pedir que a criança justifique a escolha. | Uma avaliação mais confiável do que as crianças sabem. |
 | Algumas crianças zombaram da apresentação e brincaram com a entrega de dados a estranhos. | Aproveitar a brincadeira na própria dinâmica (por exemplo, perguntando "o que poderia acontecer se fizéssemos isso?"), combinar regras no início e deixar um integrante moderando. | Menos dispersão e uso da provocação como oportunidade de aprendizado. |
-| Não houve instrumento para verificar o aprendizado. | Incluir, no fechamento, um quiz curto com cartões (por exemplo, 5 situações em que a criança responde "risco" ou "seguro" e explica em uma frase), registrado apenas em forma agregada. | Evidência mais concreta de que as crianças reconhecem situações de risco. |
 
 ### Preparação da Segunda Aplicação
 
